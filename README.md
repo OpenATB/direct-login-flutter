@@ -1,5 +1,5 @@
 # Get Started
-1. Install [flutter] https://flutter.dev/docs/get-started/install/macos
+1. Install [flutter] (https://flutter.dev/docs/get-started/install/macos)
 2. Run flutter doctor and ensure that you have all the dependencies installed:
   - xcode
   - java
@@ -10,8 +10,8 @@
 ## Populate the values in the fields of the following files:
 1.  `flutter/android/key.properties`:
 ```
-//TODO: Fill out location for keys
-storeFile=
+// TODO: Fill out location for keys
+  storeFile=
 ```
 2. `flutter/lib/utils/constants.dart`:
 ```

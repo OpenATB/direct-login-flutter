@@ -1,5 +1,5 @@
 # Get Started
-1. Install [flutter]https://flutter.dev/docs/get-started/install/macos
+1. Install [flutter] https://flutter.dev/docs/get-started/install/macos
 2. Run flutter doctor and ensure that you have all the dependencies installed:
   - xcode
   - java
